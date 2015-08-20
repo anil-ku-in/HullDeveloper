@@ -1,0 +1,1076 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fro",
+				"fromaddress"
+			],
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"imap_utf",
+				"imap_utf7_decode"
+			],
+			[
+				"str",
+				"str_replace	(Holidays.php)"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"email",
+				"emailNum"
+			],
+			[
+				"over",
+				"overview"
+			],
+			[
+				"outp",
+				"outputHeader"
+			],
+			[
+				"outpu",
+				"outputBody"
+			],
+			[
+				"C",
+				"Chimairacat12"
+			],
+			[
+				"mai",
+				"mailboxes"
+			],
+			[
+				"imap_s",
+				"imap_search"
+			],
+			[
+				"imap_l",
+				"imap_last_error"
+			],
+			[
+				"Sess",
+				"Session::get('loggedIn	(Holidays.php)"
+			],
+			[
+				"getMember",
+				"getMemberById	(Holidays.php)"
+			],
+			[
+				"get",
+				"getMemberById	(Holidays.php)"
+			],
+			[
+				"custo",
+				"custom_param3	(Holidays.php)"
+			],
+			[
+				"la",
+				"labelType"
+			],
+			[
+				"members",
+				"members_unavailable	(Holidays.php)"
+			],
+			[
+				"sl_",
+				"sl_subDept"
+			],
+			[
+				"sl",
+				"sl_first_name"
+			],
+			[
+				"from",
+				"fromDate	(Holidays.php)"
+			],
+			[
+				"my",
+				"myFormatForView"
+			],
+			[
+				"strtot",
+				"strtotime($fromDate"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"getU",
+				"getUserSubDept	(Holidays.php)"
+			],
+			[
+				"mem",
+				"memberID"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"getUserS",
+				"getUserSubDept"
+			],
+			[
+				"sub",
+				"subDept"
+			],
+			[
+				"sb",
+				"subDept	(Holidays.php)"
+			],
+			[
+				"su",
+				"subDept"
+			],
+			[
+				"getUs",
+				"getUserSubDept	(Member.php)"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"custom",
+				"custom_param1"
+			],
+			[
+				"custom_p",
+				"custom_param2"
+			],
+			[
+				"lo",
+				"locat"
+			],
+			[
+				"getUser",
+				"getUserDept"
+			],
+			[
+				"fullcal",
+				"fullcalendar"
+			],
+			[
+				"id",
+				"id=\"current	(Holidays.php)"
+			],
+			[
+				"User",
+				"Userlog	(Holidays.php)"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"off",
+				"offset-2"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"error",
+				"errorFile"
+			],
+			[
+				"u",
+				"uID"
+			],
+			[
+				"getMe",
+				"getMemberById	(Member.php)"
+			],
+			[
+				"fil",
+				"filterData	(Menus.php)"
+			],
+			[
+				"tem",
+				"templatePath"
+			],
+			[
+				"ad",
+				"admin-footer"
+			],
+			[
+				"admin",
+				"admin-header"
+			],
+			[
+				"men",
+				"menuData"
+			],
+			[
+				"sl_item",
+				"sl_item_name"
+			],
+			[
+				"menul",
+				"menuList"
+			],
+			[
+				"sl_item_",
+				"sl_item_cat"
+			],
+			[
+				"GE",
+				"_GET"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"mail",
+				"mailBody"
+			],
+			[
+				"render",
+				"renderTemplate"
+			],
+			[
+				"add",
+				"addLog"
+			],
+			[
+				"sl_log",
+				"sl_log_title"
+			],
+			[
+				"us",
+				"userId"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"rende",
+				"renderTemplate"
+			],
+			[
+				"Co",
+				"Controllers"
+			],
+			[
+				"test",
+				"testpage	(index.php)"
+			],
+			[
+				"Conrol",
+				"Controllers	(Welcome.php)"
+			],
+			[
+				"down",
+				"downcase"
+			],
+			[
+				"ope",
+				"open_url"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"json",
+				"json_response"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"localhost",
+				"localhost:8888	(config.php)"
+			],
+			[
+				"sl_password_",
+				"sl_password_confirm"
+			],
+			[
+				"re",
+				"redirect"
+			],
+			[
+				"label-",
+				"label-warning"
+			],
+			[
+				"In",
+				"Initiated"
+			],
+			[
+				"res",
+				"resetComplete	(login.php)"
+			],
+			[
+				"Url",
+				"Url::redirect('admin"
+			],
+			[
+				"rese",
+				"resetData"
+			],
+			[
+				"B",
+				"Body"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"update",
+				"updateUser"
+			],
+			[
+				"filt",
+				"filter_var"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"jum",
+				"jumbo-2"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"v",
+				"vcentre"
+			],
+			[
+				"foot",
+				"footbridge	(styles.css)"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"chec",
+				"checkUserEmail	(login.php)"
+			],
+			[
+				"pr",
+				"printf"
+			],
+			[
+				"btn",
+				"button"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"c",
+				"class"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"ch",
+				"checked"
+			],
+			[
+				"au",
+				"authCookie"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"sele",
+				"selector	(login.php)"
+			],
+			[
+				"rem",
+				"rememberData	(login.php)"
+			],
+			[
+				"reme",
+				"rememberData"
+			],
+			[
+				"set",
+				"setcookie"
+			],
+			[
+				"base64",
+				"base64_encode"
+			],
+			[
+				"log",
+				"logData"
+			],
+			[
+				"edit",
+				"editSpecials	(specials.php)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 15695,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"i",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"istall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"dfgdf",
+			"node -v",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/Dropbox/Server/Websites/HullDeveloper",
+		"/Applications/Dropbox/Server/Websites/HullDeveloper/fonts"
+	],
+	"file_history":
+	[
+		"/Users/DSherwood/Desktop/sleepers-mvc-v2.sublime-workspace",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Modules/Holidays/Controllers/Holidays.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/templates/default/css/admin.css",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/views/admin/test/test.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Controllers/Test.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Modules/Holidays/Models/Holidays.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/views/admin/users/view.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/templates/default/admin-footer.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/views/admin/menu/add.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/templates/default/js/jquery-ui.min.js",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Core/Config.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/templates/default/header.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/index.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/views/admin/system/login.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/templates/default/index-header.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/sftp-config.json",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Helpers/Database.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Models/Login.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Controllers/Users.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/views/admin/users/display.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Modules/Holidays/views/availability.php",
+		"/Applications/MAMP/conf/apache/httpd.conf",
+		"/Users/DSherwood/Desktop/Sleepers-2_2015-08-14.sql",
+		"/Applications/Dropbox/Server/Websites/test.php",
+		"/Applications/MAMP/bin/php/php5.2.17/conf/php.ini",
+		"/Applications/Dropbox/Server/Websites/the-mortgage-corner/app/templates/default/about-page.php",
+		"/Applications/Dropbox/Server/Websites/the-mortgage-corner/app/templates/default/default-page.php",
+		"/Applications/Dropbox/Server/Websites/the-mortgage-corner/sftp-config.json",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/templates/default/js/jquery-ui-timepicker-addon.js",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Modules/Holidays/views/unavailableCalendar.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Helpers/Url.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Controllers/Specials.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Controllers/Menus.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Controllers/Log.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Controllers/Login.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Controllers/Pages.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/views/admin/pages/display.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Helpers/Member.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Modules/Holidays/views/addAvailability.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Modules/Holidays/views/viewAvailability.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/templates/default/admin-header.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/views/admin/menu/display.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/views/admin/pages/add.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/views/admin/users/add.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/views/admin/users/edit.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Modules/Holidays/views/editAvailability.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/templates/default/css/jquery-ui.css",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/templates/default/css/jquery-ui.min.css",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/.htaccess",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/data.txt",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/.gitignore",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/bower.json",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/composer.json",
+		"/Applications/Dropbox/Server/Websites/Silvia/styles.css",
+		"/Applications/Dropbox/Server/Websites/Silvia/PID control for Rancilio Silvia. kit and parts only for Miss Silvia espresso machine modification.html",
+		"/Applications/Dropbox/Server/Websites/HullDeveloper/index.html",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/views/sleepers/hull.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/bower_components/eonasdan-bootstrap-datetimepicker/README.md",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/bower_components/eonasdan-bootstrap-datetimepicker/docs/Functions.md",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/bower_components/eonasdan-bootstrap-datetimepicker/docs/Events.md",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/bower_components/eonasdan-bootstrap-datetimepicker/docs/Extras.md",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/bower_components/eonasdan-bootstrap-datetimepicker/build/js/bootstrap-datetimepicker.min.js",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/bower_components/eonasdan-bootstrap-datetimepicker/.bower.json",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/templates/default/js/scripts.js",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/templates/default/js/moment.js",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Models/Users.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Modules/Holidays/views/settings.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/templates/default/js/jquery.js",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Modules/Holidays/holidays.module.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Helpers/Hooks.php",
+		"/Applications/Dropbox/Server/Websites/CRM-master/app/views/users/add.php",
+		"/Applications/Dropbox/Server/Websites/CRM-master/app/Helpers/Member.php",
+		"/Applications/Dropbox/Server/Websites/CRM-master/app/Controllers/Auth.php",
+		"/Applications/Dropbox/Server/Websites/CRM-master/app/Modules/Holidays/holidays.module.php",
+		"/Applications/Dropbox/Server/Websites/CRM-master/app/Modules/UsersOnline/Controllers/UsersOnline.php",
+		"/Applications/Dropbox/Server/Websites/CRM-master/app/templates/crm/footer.php",
+		"/Applications/Dropbox/Server/Websites/CRM-master/app/templates/crm/header.php",
+		"/Applications/Dropbox/Server/Websites/CRM-master/app/Modules/Holidays/views/unavailableCalendar.php",
+		"/Applications/Dropbox/Server/Websites/CRM-master/app/Modules/Holidays/views/availability.php",
+		"/Applications/Dropbox/Server/Websites/CRM-master/app/Modules/Holidays/views/viewAvailability.php",
+		"/Applications/Dropbox/Server/Websites/CRM-master/app/Core/View.php",
+		"/Applications/Dropbox/Server/Websites/CRM-master/app/Modules/UsersOnline/usersonline.module.php",
+		"/Applications/Dropbox/Server/Websites/CRM-master/app/Modules/Serials/serials.module.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/errorlog.html",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Core/Logger.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Helpers/Assets.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Core/Error.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Helpers/Userlog.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Modules/index.html",
+		"/Applications/Dropbox/Server/Websites/HullDeveloper/styles/styles.css",
+		"/Applications/Dropbox/Server/Websites/HullDeveloper/prices/bespoke.html",
+		"/Applications/Dropbox/Server/Websites/HullDeveloper/prices/redesign.html",
+		"/Applications/Dropbox/Server/Websites/HullDeveloper/prices/template.html",
+		"/Applications/Dropbox/Server/Websites/HullDeveloper/images/kc-stadium.jpg",
+		"/Applications/Dropbox/Server/Websites/HullDeveloper/images/kc-stadium.png",
+		"/Applications/Dropbox/Server/Websites/HullDeveloper/portifolio",
+		"/Applications/Dropbox/Server/Websites/HullDeveloper/prices",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Helpers/Session.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Helpers/page_eloq.md",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Helpers/Gump.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Core/Router.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/views/admin/system/log.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Core/View.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/vendor/composer/ClassLoader.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/vendor/composer/autoload_psr4.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/vendor/composer/autoload_real.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/vendor/composer/installed.json",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/vendor/composer/autoload_namespaces.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/vendor/composer/autoload_files.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/vendor/autoload.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Helpers/Csrf.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Helpers/Data.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Helpers/Document.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Core/Controller.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/Models/Error.php",
+		"/Applications/Dropbox/Server/Websites/Sleepers-mvc-v2/app/views/error/404.php",
+		"/Applications/Dropbox/Server/Websites/CRM-master/app/Modules/Holidays/Models/Holidays.php",
+		"/Applications/Dropbox/Server/Websites/CRM-master/app/templates/AdminLTE/footer.php",
+		"/Applications/Dropbox/Server/Websites/CRM-master/app/Modules/Holidays/Controllers/Holidays.php",
+		"/Applications/Dropbox/Server/Websites/CRM-master/app/templates/AdminLTE/dist/js/app.js",
+		"/Applications/Dropbox/Server/Websites/CRM-master/install/index.php",
+		"/Applications/Dropbox/Server/Websites/CRM-master/ckeditor/plugins/scayt/dialogs/toolbar.css",
+		"/Applications/Dropbox/Server/Websites/CRM-master/ckeditor/plugins/scayt/dialogs/options.js",
+		"/Applications/Dropbox/Server/Websites/CRM-master/app/Helpers/Acl.php",
+		"/Applications/Dropbox/Server/Websites/CRM-master/app/Modules/Holidays/views/settings.php",
+		"/Applications/Dropbox/Server/Websites/CRM-master/app/Helpers/MobileDetect.php",
+		"/Applications/Dropbox/Server/Websites/hulldev/app/Helpers/Hooks.php",
+		"/Applications/Dropbox/Server/Websites/hulldev/index.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$imap",
+			"$body",
+			"body",
+			"$imap",
+			"HEADER",
+			"Header",
+			"email_number",
+			"num",
+			"$emails[0]",
+			"email_number",
+			"emailNum",
+			");\n",
+			"'</span>'",
+			"$output",
+			"t.=",
+			".=",
+			"com",
+			"imap_last_error",
+			"users@",
+			"menus@",
+			"pages@",
+			"specials@",
+			"specials",
+			"login@",
+			"'",
+			"{imap.gmail.com:993/imap/ssl}INBOX",
+			"'",
+			" data-toggle=\"tab\"",
+			" <span class=\"divider\">></span>",
+			"<span class=\"divider\">></span>",
+			"<h3>",
+			"'l, NS F, Y | H:i:sa'",
+			"sl_level",
+			"sl_username",
+			"sl_level",
+			"sl_username",
+			"first",
+			"jS M Y H:i:s",
+			"\",",
+			"control",
+			"<span class=\"input-group-addon\">\n                        <span class=\"glyphicon glyphicon-calendar\"></span>\n                    </span>",
+			"\"></",
+			"data",
+			"<ul",
+			"ul",
+			"<?php echo Url::templatePath();?>",
+			"/bower",
+			"/b",
+			"h",
+			"DIR.",
+			"DIR",
+			"stmt",
+			"memberID",
+			"members",
+			"$data['acl']",
+			"View::renderTemplate",
+			"View::rendertemplate",
+			"model",
+			"Model",
+			"model",
+			"Url",
+			"url",
+			"Url",
+			"Url::redirect",
+			"unavailable",
+			"users",
+			"dept",
+			"$dept",
+			"id",
+			"uID",
+			" ?></",
+			";\n",
+			"$emogrifier = new \\Pelago\\Emogrifier($body);\n                    $mergedHtml = $emogrifier->emogrify();\n                    $body = $mergedHtml;",
+			"body",
+			"$emogrifier = new \\Pelago\\Emogrifier($body);\n                $mergedHtml = $emogrifier->emogrify();",
+			"$emogrifier = new \\Pelago\\Emogrifier($body);\n                $mergedHtml = $emogrifier->emogrify();\n                $body = $mergedHtml;",
+			"h",
+			"<i class=\"glyphicon glyphicon-time\">",
+			"paint-brush",
+			"desktop",
+			"<i class=\"glyphicon glyphicon-desktop\"></i>",
+			"print",
+			"vcentre",
+			"<li></li>",
+			"vcentre",
+			"div",
+			"$emogrifier = new \\Pelago\\Emogrifier($body);\n                    $mergedHtml = $emogrifier->emogrify();\n                    $body = $mergedHtml;",
+			"users",
+			"holidays",
+			"users",
+			"'));\n",
+			"'] ",
+			"?>\n",
+			"type",
+			"h",
+			"con",
+			"menulist",
+			"\\c",
+			"->login",
+			"->Login",
+			"e_p",
+			"->login",
+			"_p",
+			"e_p",
+			"_p",
+			">",
+			"_db",
+			"_user_by_id",
+			"_db",
+			"rendertemplate",
+			"set_total",
+			"get_limit",
+			"&sl_",
+			"_users",
+			"rendertemplate",
+			"set_total",
+			"get_limit",
+			"&sl_spec_",
+			"sl_spec_",
+			"_specials",
+			"rendert",
+			"rendertemplate",
+			"$this->pages",
+			"Pages",
+			"pages",
+			"use",
+			"_log",
+			"js"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 110.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 104.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 110.0
+	},
+	"pinned_build_system": "",
+	"project": "HullDeveloper.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"print_r",
+				"phpEventCalendar_Lite/server/phpmailer/docs/Note_for_SMTP_debugging.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/Sleepers-mvc-v2.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

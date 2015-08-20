@@ -1,0 +1,562 @@
+* {
+  border-radius: 0 !important;
+}
+
+html {
+    overflow-x: hidden;
+}
+
+body {
+	margin: auto;
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    background-color: #fff;
+    font-family: Pier-regular;
+}
+
+@font-face {
+    font-family: Pier-Regular;
+    src: url(../fonts/pier-regular.otf);
+}
+
+@font-face {
+    font-family: Pier-Bold;
+    src: url(../fonts/pier-bold.otf);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Pier-Italic;
+    src: url(../fonts/pier-italic.otf);
+    font-style: italic;
+}
+
+@font-face {
+    font-family:  Pier-Bold-Italic;
+    src: url(../fonts/pier-bold-italic.otf);
+    font-style: italic;
+    font-weight: bold;
+}
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+hr.style-one {
+    border: 0;
+    width: 75%;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #fff, #222, #fff);
+}
+
+hr.style-two {
+    border: 0;
+    width: 75%;
+    height: 1px;
+    margin: 0;
+    margin-right: auto;
+    margin-left: auto;
+    background: #333;
+    background-image: linear-gradient(to right, #222, #fff, #222);
+}
+
+div.style-three {
+    background-image: -webkit-linear-gradient(top,#ccc, #333, #ccc);
+    background-image: -moz-linear-gradient(top,#ccc, #333, #ccc);
+    background-image: -ms-linear-gradient(top,#ccc, #333, #ccc);
+    background-image: -o-linear-gradient(top,#ccc, #333, #ccc);
+    background-image: linear-gradient(top,#ccc, #333, #ccc);
+    width: 1px;
+    height: 10em;
+    margin-right: 1em;
+    display: inline-block;
+}
+
+.back-to-top {
+    background: none;
+    margin: 0;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 70px;
+    height: 70px;
+    z-index: 100;
+    display: none;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.back-to-top i {
+  font-size: 60px;
+  color: #555;
+}
+
+.wrapper {
+	width: 100%;
+    padding: 0 0 2em 0;
+	margin: auto;
+}
+
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+
+nav {
+    width: 100%;
+}
+
+.navbar {
+    border-radius: 0;
+    display: inline-block;
+    background: #111;
+}
+
+.navbar-nav {
+    position: fixed;
+    top: 0;
+}
+
+.navbar-inverse .navbar-brand{
+    background: #fff;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+  color: #fff;
+}
+
+ul.navbar-nav > li {
+    background-color: #222;
+    box-shadow: 2px 1px 5px rgba(0, 0, 0, .5);
+    margin-right: 1em;
+}
+
+ul.navbar-nav > li:hover {
+    background: #fff;
+    box-shadow: 2px 3px 7px rgba(0, 0, 0, .9);
+}
+
+.navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover {
+  color: #111;
+  background-color: #fff;
+}
+
+/*.transparent {
+    background: rgba(0,0,0,0.4);
+}*/
+
+.container-fluid {
+    width: 75%;
+    margin: auto;
+}
+
+.intro {
+    display: table;
+    width: 100%;
+    height: 40em;
+    text-align: center;
+    background-size: cover;
+    color: #fff;
+    height: 100vh;
+}
+
+.intro .intro-body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.brand-heading {
+    margin-bottom: 0;
+    font-size: 90px;
+    color: white;
+}
+
+.intro-text {
+    font-size: 25px;
+    color: white;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 1em 0 1.5em 0;
+    text-align: center;
+}
+
+.jumbotron > h1 {
+    width: 100%;
+    margin: auto;
+    margin-bottom: 0.5em;
+}
+
+.jumbotron > p {
+    width: 100%;
+    margin: auto;
+    margin-bottom: 1em;
+}
+
+.vcentre {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
+.jumbo-text {
+    line-height: 1.4em;
+    letter-spacing: 0.05em;
+    word-spacing: 0.1em;
+}
+
+.jumbo-image {
+    padding: 0;
+    background-size: cover;
+}
+
+.banner-img {
+    width: 100%;
+    height: auto;
+}
+
+.jumbo-1 {
+    background-color: #fff;
+    color: #222;
+}
+
+.jumbo-2 {
+    background-color: #111;
+    color: #fff;
+}
+
+/*WORK SLIDER*/
+
+.nav-pills > li {
+    box-shadow: 2px 3px 7px rgba(0, 0, 0, .9);
+}
+
+.nav-pills > li > a {
+  color: #fff;
+  background-color: #111;
+  border-radius: 0;
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
+  color: #fff;
+  background-color: #222;
+  box-shadow: 2px 3px 7px rgba(0, 0, 0, .9);
+  border-radius: 0;
+}
+
+.nav-pills > li > a:hover {
+    background-color: #333;
+}
+
+/*BOOTSNIP FOOTER CSS*/
+
+footer > .row{
+    padding: 3em;
+}
+
+.container-footer {
+    width: 90%;
+    padding-bottom: 2em;
+}
+
+/*.container-footer > .col-md-4 {
+    text-align: center;
+}*/
+
+.footer-header {
+    color: #111;
+}
+
+.footer-text {
+    color: #111;
+}
+
+.footer-list-parent {
+    padding: 0;
+}
+
+.footer-list {
+    color: #111;
+}
+
+.no-bullet {
+    list-style-type: none;
+}
+
+.fa {
+    color: #555;
+    margin-right: 0.5em;
+}
+
+.small-container {
+    color: white;
+    background-color: #222;
+    width: 100%;
+    padding: 2em;
+}
+
+.small-col {
+    text-align: center;
+    color: #555;
+}
+
+.small-col > p > a {
+    color: #555;
+}
+
+/*PRICING CSS*/
+/*=============================================================
+    Authour URL: www.designbootstrap.com
+
+    http://www.designbootstrap.com/
+
+    License: MIT
+========================================================  */
+
+
+/*BACKGROUND COLORS*/
+
+/*.color-one {
+    background-color: #f55039;
+}
+
+.color-two {
+    background-color: #46A6F7;
+}
+
+.color-three {
+    background-color: #47887E;
+}
+*/
+
+/*PRICING STYLES*/
+
+.fa-price{
+    color: white;
+}
+
+.padding-bottom {
+    padding-bottom: 50px;
+}
+
+.button-square {
+    color: #fff;
+    background-color: #222;
+    border: none;
+    box-shadow: 2px 3px 7px rgba(0, 0, 0, .9);
+    border-radius: 0px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+}
+
+.button-square:hover {
+    color: #222;
+    background-color: #fff;
+    border: none;
+}
+
+.pricing {
+    margin-bottom: 30px;
+    margin-top: 50px;
+    text-align: center;
+    background-color: #222;
+    color: #fff;
+    box-shadow: 2px 3px 7px rgba(0, 0, 0, .9);
+    line-height: 30px;
+}
+
+.pricing ul {
+    list-style: none;
+    margin: 0;
+    text-align: center;
+    padding-left: 0px;
+}
+
+.pricing ul li {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    cursor: pointer;
+}
+
+.pricing ul li i {
+    margin-right: 5px;
+}
+
+.pricing .price {
+    padding: 40px 20px 20px 20px;
+    font-size: 60px;
+    font-weight: 900;
+    color: #fff;
+}
+
+.pricing .price small {
+    color: #B8B8B8;
+    display: block;
+    font-size: 12px;
+    margin-top: 22px;
+}
+
+.pricing .type {
+    background-color: #fff;
+    color: #111;
+    padding: 50px 20px;
+    font-weight: 900;
+    box-shadow: 2px 3px 7px rgba(0, 0, 0, .9);
+    text-transform: uppercase;
+    font-size: 30px;
+}
+
+.pricing .pricing-footer {
+    padding: 20px;
+}
+
+/*FORM*/
+
+.form-style {
+    border-radius: 0;
+    border: 0;
+    color: #fff;
+    background-color: #222;
+    box-shadow: 2px 3px 7px rgba(0, 0, 0, .9);
+}
+
+.form-select {
+    border: 0;
+    outline: 1px inset #222;
+    outline-offset: -1px;
+}
+
+button.form-style:hover {
+    color: #111;
+    background: #fff;
+    box-shadow: 2px 3px 7px rgba(0, 0, 0, .9);
+}
+
+.form-style::-webkit-input-placeholder { /* WebKit browsers */
+    color:     #fff;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+   color:     #fff;
+   opacity:  1;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+   color:     #fff;
+   opacity:  1;
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+   color:     #fff;
+}
+
+
+
+
+body {
+    padding-top: 20px;
+}
+
+.carousel {
+    box-shadow: 2px 0px 7px rgba(0, 0, 0, .9);
+}
+
+#myCarousel .nav a small {
+    display: block;
+}
+
+#myCarousel .nav {
+    background: #eee;
+}
+
+.carousel-caption > h3, .carousel-caption > p {
+    display: inline-block;
+    /*background: rgba(0,0,0,1);*/
+    background-color: #111;
+}
+
+.nav-justified > li > a {
+    border-radius: 0px;
+}
+
+.nav-pills>li[data-slide-to="0"].active a {
+    background-color: #16a085;
+}
+
+.nav-pills>li[data-slide-to="1"].active a {
+    background-color: #e67e22;
+}
+
+.nav-pills>li[data-slide-to="2"].active a {
+    background-color: #2980b9;
+}
+
+.nav-pills>li[data-slide-to="3"].active a {
+    background-color: #8e44ad;
+}
+
+.nav-pills > li > a:hover {
+    background-color: #222;
+}
+
+/* Price plan subpages */
+
+.breadcrumb {
+    display: inline-block;
+    border-radius: 0;
+    background: #222;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+.breadcrumb > .active {
+    color: #555;
+}
+
+.breadcrumb > li  a:hover {
+    color: #555;
+    text-decoration: underline;
+}
+
+.intro-sub .intro-sub-body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.brand-heading-sub {
+    margin-bottom: 0;
+    font-size: 90px;
+    color: white;
+}
+
+.intro-sub {
+    height: 30vh;
+    display: table;
+    width: 100%;
+    height: 40em;
+    text-align: center;
+    background-size: cover;
+    color: #fff;
+}
+
+.intro-sub-text {
+    font-size: 25px;
+    color: white;
+}
+
+.price-points {
+    text-align: left;
+    padding: 1em;
+}
+
+.price-points > li {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    cursor: pointer;
+    font-size: 25px;
+}
